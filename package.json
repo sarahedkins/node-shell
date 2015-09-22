@@ -1,0 +1,27 @@
+{
+  "name": "node-shell",
+  "version": "1.0.0",
+  "description": "Building a node shell",
+  "main": "bash.js",
+  "dependencies": {
+    "request": "^2.63.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node bash.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahedkins/node-shell.git"
+  },
+  "keywords": [
+    "node",
+    "shell"
+  ],
+  "author": "Sarah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sarahedkins/node-shell/issues"
+  },
+  "homepage": "https://github.com/sarahedkins/node-shell#readme"
+}
